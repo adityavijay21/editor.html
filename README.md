@@ -1,4 +1,4 @@
-![image](/assets/readmeheader.png)
+![image](/assets/header.png)
 
 **Editor.HTML** is a cross-platform desktop application designed for beginner web developers to practice HTML, CSS, and JavaScript. With its live preview feature, you can see the results of your code in real-time, making learning and coding fun and intuitive.
 
